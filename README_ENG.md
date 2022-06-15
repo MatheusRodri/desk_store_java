@@ -1,4 +1,4 @@
-[Português](README.MD)
+[Português](README.md)
 
 
 # Introduction 
@@ -19,4 +19,4 @@ Below you can see the requirements:
 - Update the password of database in the files ConexaoDAO and FuncionarioDAO.
 - Ready, only execute the project.
 
-**Note: Necessary use the conector version 8 or higher of mysql **
+**Note: Necessary use the conector version 8 or higher of mysql**
